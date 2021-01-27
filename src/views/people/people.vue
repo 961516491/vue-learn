@@ -29,8 +29,7 @@ export default {
     data() {
         return {
             left1: 0,
-            top1: 0,
-            bottom1: 0
+            top1: 0
         }
     },
     methods: {
